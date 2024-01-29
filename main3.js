@@ -41,5 +41,5 @@ console.log(array2);  */
 //console.log(student , student2);
 
 
-//console.log(array, array2, array3, array4);
+//console.log(array2, array3, array4);
 
